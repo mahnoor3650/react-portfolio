@@ -53,3 +53,13 @@ cursor: pointer;
 .hero-resume:hover {
     border-color: #B415FF;
 }
+@media(max-width:768px) {
+    .hero img{
+        margin-bottom: 80px;
+        width: 260px;
+    }
+    .hero h1{
+        width: 90%;
+        
+    }
+}

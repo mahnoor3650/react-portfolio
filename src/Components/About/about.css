@@ -20,8 +20,8 @@ position: absolute;
 bottom: 0;
 right: 0;
 z-index: -1;
-width: 200px;
-    height: 56px;
+width: 160px;
+    height: 42px;
 }
 .about-section{
     display: flex;
